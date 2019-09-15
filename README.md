@@ -6,7 +6,7 @@ download craw_google_news.py and run
 or 
 
 
-run with docker
+run with docker (two methods)
 
 1.pull from docker hub:
 
